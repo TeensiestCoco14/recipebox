@@ -1,0 +1,11 @@
+.Recipe {
+	border: 1px solid black;
+	width: 80%;
+	margin: auto;
+	margin-bottom: 15px;
+	padding: 15px;
+}
+
+.Recipe button {
+	margin: 10px;
+}
